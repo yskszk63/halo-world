@@ -3,7 +3,7 @@
 A docker image running a simple HTTP server.
 
 ```bash
-$ docker run -d -ePORT=3000 -p3000:3000 halo-world
+$ docker run -d -ePORT=3000 -p3000:3000 yskszk63/halo-world
 b2a7949a5b2ca3d961a10d07cf17992907637204f3d389932811c79ff5e7a129
 $ curl localhost:3000 -i
 HTTP/1.1 200 OK
