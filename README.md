@@ -20,4 +20,4 @@ date: Thu, 24 Aug 2023 15:17:40 GMT
 
 # LICENSE
 
-[MIT](License)
+[MIT](LICENSE)
